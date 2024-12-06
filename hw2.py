@@ -41,3 +41,7 @@ if __name__ == "__main__":
     for figure in figures:
         print(figure.info())
 
+
+
+
+print("Hello world!")
